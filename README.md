@@ -27,12 +27,13 @@ App has a very simple user interface that has four parts:
 
 
 ## Files
-+ *1__Preproccess.ipynb* - reads, explores and preproccess raw the SVHN dataset 
-+ *2__Classifier_datasets.ipynb* - prepares testing, validation and augmented training dataset for sequences of digits CNN classifier
-+ *3__Classifier.ipynb* - defines and trains CNN calssifier that decodes sequences of digits. In the of notebook there are classifier error analysis and final TensorFlow model convertion into tflite model 
-+ *4__Object_detection_dataset.ipynb* - prepares testing, validation and augmented training dataset for CNN model which predicts number's bounding box
-+ *5__Regression_model.ipynb* - defines and trains CNN regression model which predicts number bounding box coordinates. In the end of notebook there are classifier error analysis and final TensorFlow model convertion into tflite model 
-+ *6__Approach.ipynb* - executes full approach pipeline - from raw image to the number prediction.
+
++ [*1__Preproccess.ipynb*](1__Preproccess.ipynb) - reads, explores and preproccess raw the SVHN dataset 
++ [*2__Classifier_datasets.ipynb*](2__Classifier_datasets.ipynb) - prepares testing, validation and augmented training dataset for sequences of digits CNN classifier
++ [*3__Classifier.ipynb*](3__Classifier.ipynb) - defines and trains CNN calssifier that decodes sequences of digits. In the of notebook there are classifier error analysis and final TensorFlow model convertion into tflite model 
++ [*4__Object_detection_dataset.ipynb*](4__Object_detection_dataset.ipynb) - prepares testing, validation and augmented training dataset for CNN model which predicts number's bounding box
++ [*5__Regression_model.ipynb*](5__Regression_model.ipynb) - defines and trains CNN regression model which predicts number bounding box coordinates. In the end of notebook there are classifier error analysis and final TensorFlow model convertion into tflite model 
++ [*6__Approach.ipynb*](6__Approach.ipynb) - executes full approach pipeline - from raw image to the number prediction.
 
 ## Results 
 
